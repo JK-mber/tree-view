@@ -1,5 +1,5 @@
 {
-  "name": "tree-view",
+  "name": "tree-view-temp",
   "version": "0.224.2",
   "main": "./lib/main",
   "description": "Explore and open files in the current project.",
